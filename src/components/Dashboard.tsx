@@ -6,7 +6,6 @@ import {
   Users,
   Recycle,
   Heart,
-  Eye,
   Pill,
   Flame,
   Trash,
