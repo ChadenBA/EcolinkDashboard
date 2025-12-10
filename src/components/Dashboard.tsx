@@ -535,7 +535,7 @@ export const Dashboard: React.FC = () => {
           <img src={MouseRunning} alt="Running" className="w-16 h-16 animate-bounce" />
           <p className="text-lg">كل خطوة صغيرة بتعمل فرق كبير!</p>
         </div>
-        <p className="text-sm">© 2022 EcoLink-Dashboard. Made with 💚 for the planet.</p>
+        <p className="text-sm">© 2025 EcoLink-Dashboard. Made with 💚 for the planet.</p>
       </footer>
 
     </div>
